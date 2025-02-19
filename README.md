@@ -4,7 +4,7 @@ This is official Pytorch implementation of "MDDPFuse: Multi-Driven Dynamic Perce
 
 ## Network Architecture
 
-![MDDPFuse-Github](./MDDPFues-Github.png)
+![MDDPFuse-Github](MDDPFuse-Github.png)
 
 
 ## Recommended Environment
