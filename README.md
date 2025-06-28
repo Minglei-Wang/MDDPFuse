@@ -8,3 +8,4 @@ The code of "MDDPFuse: Multi-Driven Dynamic Perception Network for Infrared and 
 - [] pillow 8.0.1
 
 ## Network Architecture
+<img src="./MDDPFuse-Github.png"/>
