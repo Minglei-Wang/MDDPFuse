@@ -9,3 +9,14 @@ The code of "MDDPFuse: Multi-Driven Dynamic Perception Network for Infrared and 
 
 ## Network Architecture
 <img src="./MDDPFuse-Github.png"/>
+
+
+## If this work is helpful to you, please cite it as：
+```
+@article{
+}
+```
+
+## Acknowledgements
+
+This code is built on [SeAFusion](https://github.com/Linfeng-Tang/SeAFusion). We thank the authors for sharing their codes.
